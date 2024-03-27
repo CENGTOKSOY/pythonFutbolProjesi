@@ -21,7 +21,3 @@ Bu proje, Python programlama dili kullanılarak Tkinter kütüphanesi ile geliş
 
 - Python 3.x
 - Tkinter kütüphanesi (Python ile birlikte gelir)
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
